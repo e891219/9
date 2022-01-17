@@ -1,0 +1,43 @@
+﻿<html>
+<head>
+<title>網頁架構</title>
+</head>
+<body>
+
+
+</div>
+<h3>紅燒獅子頭</h3>
+</div>
+
+
+<a href="2nd.html">佛跳牆</a>
+<a href="3nd.html">紅燒獅子頭</a>
+<a href="4nd.html">鳳梨蝦球</a>
+<a href="5nd.html">心得感想</a>
+
+<table border="1">
+<tr>
+<th>圖片</th>
+<th>標題</th>
+<th>說明</th>
+</tr>
+
+
+<tr>
+<td><img src=".\image\003.jpg.png" width="400" height="300" align="left"></td>
+<td><h3>紅燒獅子頭</h3></td>
+<td>將有肥有瘦的肉配上荸薺，香菇等材料，做成丸子，先炸後煮，出鍋後撲鼻的香味，<br>
+光聞起來就引動食慾，醇香味濃的肉塊與汁液，超級美味。<br>
+獅子頭要柔軟好吃，肉最好自己剁， 而且要肥瘦相間的，瘦肉比肥肉稍微多一點。不過，如果時間有限，<br>
+買現成的肉餡也未嘗不可。另一個重點是在容器上，要細火慢燉，以砂鍋為最佳。<br>
+已故國畫大師張大千傳授夫人的一道拿手好菜就是“紅燒獅子頭”，大千先生的作法是，七分瘦肉，三分肥肉，<p>
+細切粗斬，大小要如米粒，不能剁太細，讓肉質間保持縫隙，才能含汁。<p></td>
+</div>
+</tr>
+
+
+
+</div>
+</tr>
+</table>
+<audio src=".\001-coffee.MP3" autoplay controls> </audio>
